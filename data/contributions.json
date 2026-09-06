@@ -1,32 +1,28 @@
 {
   "username": "abdul-kheeyan",
-  "generated_at": "2026-09-05T10:35:37Z",
+  "generated_at": "2026-09-06T10:56:43Z",
   "range": {
-    "start": "2025-08-31",
-    "end": "2026-09-05"
+    "start": "2025-09-07",
+    "end": "2026-09-06"
   },
-  "total_contributions": 350,
-  "active_days": 75,
+  "total_contributions": 357,
+  "active_days": 76,
   "avg_per_active_day": 4.7,
   "current_streak": {
-    "length": 67,
+    "length": 68,
     "start": "2026-07-01",
-    "end": "2026-09-05"
+    "end": "2026-09-06"
   },
   "longest_streak": {
-    "length": 67,
+    "length": 68,
     "start": "2026-07-01",
-    "end": "2026-09-05"
+    "end": "2026-09-06"
   },
   "best_day": {
     "date": "2026-08-02",
     "count": 16
   },
   "monthly": [
-    {
-      "month": "2025-08",
-      "total": 0
-    },
     {
       "month": "2025-09",
       "total": 2
@@ -77,38 +73,10 @@
     },
     {
       "month": "2026-09",
-      "total": 17
+      "total": 24
     }
   ],
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0
@@ -1563,7 +1531,11 @@
     },
     {
       "date": "2026-09-05",
-      "count": 4
+      "count": 5
+    },
+    {
+      "date": "2026-09-06",
+      "count": 6
     }
   ]
 }
