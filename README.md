@@ -35,16 +35,14 @@
 </p>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="DSA" src="https://img.shields.io/badge/DSA-Algorithms%20%26%20Problem%20Solving-FF6B6B?style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br>
@@ -52,19 +50,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-61DAFB?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Problem%20Solving-C%2B%2B%20%7C%20DSA-00599C?style=flat-square&logo=c%2B%2B" />
       <br/>
-      <sub>Modern interfaces and responsive UX</sub>
+      <sub>Strong core logic, optimization, and algorithmic thinking</sub>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python-339933?style=flat-square&logo=node.js" />
+      <img src="https://img.shields.io/badge/Web-React%20%7C%20Node.js%20%7C%20Express.js-339933?style=flat-square&logo=node.js" />
       <br/>
-      <sub>Scalable APIs and production-ready logic</sub>
+      <sub>Modern frontend and backend application development</sub>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/AI-LLMs%20%7C%20Automation-8A2BE2?style=flat-square&logo=openai" />
+      <img src="https://img.shields.io/badge/AI-Learning%20%26%20Automation-8A2BE2?style=flat-square&logo=openai" />
       <br/>
-      <sub>Smart workflows and AI-powered features</sub>
+      <sub>Exploring intelligent systems and practical automation</sub>
     </td>
   </tr>
 </table>
@@ -74,10 +72,10 @@
 <h3><code>abdul@github ~ $ ./projects.sh</code></h3>
 
 <ul>
-  <li><b>Full-stack web applications</b> with strong architecture and clean UI</li>
-  <li><b>AI-integrated tools</b> for automation and intelligent experiences</li>
-  <li><b>Production deployments</b> with performance and maintainability in mind</li>
-  <li><b>Product-focused development</b> from idea to implementation</li>
+  <li><b>C++ and DSA practice</b> to build strong problem-solving fundamentals</li>
+  <li><b>Frontend and web development</b> with responsive and clean interfaces</li>
+  <li><b>Smart product thinking</b> to turn ideas into usable digital solutions</li>
+  <li><b>Continuous learning</b> in software engineering, AI, and modern tooling</li>
 </ul>
 
 <br>
