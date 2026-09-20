@@ -21,8 +21,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Abdul Kheeyan — ASCII portrait" /></td>
-    <td valign="top"><img src="./wordmark.svg" width="490" alt="AK — 3D ASCII wordmark" /></td>
+    <td valign="top"><img src="./ak.svg" width="370" alt="Abdul Kheeyan — ASCII portrait" /></td>
+    <td valign="top"><img src="./AK1.svg" width="490" alt="ABDUL — 3D ASCII wordmark" /></td>
   </tr>
 </table>
 
