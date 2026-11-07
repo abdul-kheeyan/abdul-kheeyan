@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdul--kheeyan.onrender.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://abdul-kheeyan-portfolio.onrender.com/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul--kheeyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kheeyan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abdul__kheeyan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdul_kheeyan/)
-[![X](https://img.shields.io/badge/X-ABDUL__KHEEYAN-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ABDUL_KHEEYAN)
+[![X](https://img.shields.io/badge/X-Abdulkheeyan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abdulkheeyan)
 [![Instagram](https://img.shields.io/badge/Instagram-abdul__kheeyan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdul_kheeyan)
 
 <br>
